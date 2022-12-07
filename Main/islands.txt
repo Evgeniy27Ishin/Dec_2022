@@ -1,0 +1,4 @@
+Dog
+Cat
+Meo
+Voda
